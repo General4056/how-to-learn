@@ -145,12 +145,10 @@
   flex-wrap: wrap;
   justify-content: space-between;
   padding: 0;
-}
-
-.table {
   width: 1100px;
   margin: auto;
 }
+
 .table__heading {
   margin: 0;
   padding-bottom: 20px;
